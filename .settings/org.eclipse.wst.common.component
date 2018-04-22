@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CrackingTheCodingInterview">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Chapter1"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Chapter2"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Chapter3"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Chapter4"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Chapter5"/>
+        <property name="context-root" value="CrackingTheCodingInterview"/>
+        <property name="java-output-path" value="/CrackingTheCodingInterview/build/classes"/>
+    </wb-module>
+</project-modules>
